@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulsoumya)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsoumya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gokulsoumya/gokulsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
